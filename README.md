@@ -1,2 +1,2 @@
-"# Meme-It-Vue-Rest" 
-"# Meme-It-Vue-Rest" 
+Type 'npm i'  to install all packages
+To start the server type 'nodemon index'
